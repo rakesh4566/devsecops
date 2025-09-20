@@ -4,7 +4,7 @@
 Helpful Terraform Links:
 - [Terraform Language Documentation](https://www.terraform.io/docs/language/index.html)
 - [Resource: aws_security_group](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/security_group)
-- [Resource: aws_instance](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/instance)
+- [Resource: aws_instance](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/instance)  
 
 ## Step 0: Initialize Terraform
 ```
